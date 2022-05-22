@@ -1,0 +1,231 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Internal cnxn targets</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>eea76077-9f5f-4e08-860a-7cf6cc5b010e</md:uuid>
+</metadata>
+  <content>
+    <section id="s1">
+      <title>Exercises</title>
+      <para id="delete_me">
+        <exercise id="ex1">
+          <title>Exercise with names</title>
+          <problem id="ex1-prob">
+            <title>Named problem</title>
+            <para id="ex1-prob-p1">How many reference librarians does it take to screw in a light bulb?
+            </para>
+          </problem>
+          <solution id="ex1-sol">
+            <title>Named solution</title>
+            <para id="ex1-sol-p1">Not sure, but I can look it up.
+            </para>
+          </solution>
+        </exercise>
+        <exercise id="ex2">
+          <title>Exercise without names</title>
+          <problem id="ex2-prob">
+            <para id="ex2-prob-p1">How many reference librarians does it take to screw in a light bulb?
+            </para>
+          </problem>
+          <solution id="ex2-sol">
+            <para id="ex2-sol-p1">Not sure, but I can look it up.
+            </para>
+          </solution>
+        </exercise>
+      </para>   
+    </section>
+    <section id="s2">
+      <title>Rules etc.</title>
+      <rule id="rule1" type="rule">
+        <title>Occam's Razor</title>
+        <statement id="idp1921952">
+          
+          <para id="rule1-state">Don't multiply entities unnecessarily.</para>
+        </statement>
+        <proof id="idm12553024">
+          
+          <para id="rule1-proof">It's in the eating.</para>
+        </proof>
+      </rule>
+      <rule id="rule2" type="theorem">
+        <title>Gudger's Theorem</title>
+        <statement id="idm4054384">
+          
+          <para id="rule2-state">Overalls worn while farming will acquire a local memory.</para>
+        </statement>
+        <proof id="idm2052448">
+          
+          <para id="rule2-proof">Doc Watson said so.</para>
+        </proof>
+      </rule>
+      <rule id="rule3" type="rule">
+        <statement id="idp1055440">
+          <para id="rule3-state">This is a rule without a name.</para>
+        </statement>
+        <proof id="idm1320736">
+          <para id="rule3-proof">No name.</para>
+        </proof>
+      </rule>
+      <rule id="rule4" type="theorem">
+        <statement id="idm1183424">
+          <para id="rule4-state">This is a theorem without a name.</para>
+        </statement>
+        <proof id="idm2644080">
+          <para id="rule4-proof">No name.</para>
+        </proof>
+      </rule>
+    </section>
+    <section id="s4">
+      <title>Computer code</title>
+      <para id="s4-p1">
+        <code display="block" id="s4-code1">
+          &lt;xsl:template match="*"&gt;
+            &lt;xsl:apply-templates select="@*"/&gt;
+            &lt;xsl:apply-templates&gt;
+          &lt;/xsl:template&gt;
+        </code>
+        <code display="block" id="s4-code2">
+          file = open('myfile.txt')
+          for line in file:
+              print "Woof: %d" % len(line)
+          file.close()
+        </code>
+      </para>
+    </section>
+    <section id="s5">
+      <title>Table entries</title>
+      <para id="s5-p1">
+        <table id="s5-t1" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>I am a rather elderly man.  </entry>
+                <entry>The nature of my avocations for the last
+          thirty years has brought me into more than ordinary contact with what
+          would seem an interesting and somewhat singular set of men, of whom as
+          yet nothing that I know of has ever been written:--I mean the
+          law-copyists or scriveners.</entry>
+                <entry>I have known very many of them,
+          professionally and privately, and if I pleased, could relate divers
+          histories, at which good-natured gentlemen might smile, and sentimental
+          souls might weep.  </entry>
+                <entry>But I waive the biographies of all other scriveners
+          for a few passages in the life of Bartleby, who was a scrivener of the
+          strangest I ever saw or heard of.  </entry>
+              </row>
+              <row>
+                <entry>While of other law-copyists I might
+          write the complete life, of Bartleby nothing of that sort can be done.
+          </entry>
+                <entry>I believe that no materials exist for a full and satisfactory biography
+          of this man.  </entry>
+                <entry>It is an irreparable loss to literature.  </entry>
+                <entry>Bartleby was one
+          of those beings of whom nothing is ascertainable, except from the
+          original sources, and in his case those are very small.  </entry>
+              </row>
+              <row>
+                <entry>What my own
+          astonished eyes saw of Bartleby, _that_ is all I know of him, except,
+          indeed, one vague report which will appear in the sequel.
+        </entry>
+                <entry>Ere introducing the scrivener, as he first appeared to me, it is fit I
+          make some mention of myself, my _employees_, my business, my chambers,
+          and general surroundings; because some such description is indispensable
+          to an adequate understanding of the chief character about to be
+          presented.
+        </entry>
+                <entry>Imprimis:  I am a man who, from his youth upwards, has been filled with
+          a profound conviction that the easiest way of life is the best.  </entry>
+                <entry>Hence,
+          though I belong to a profession proverbially energetic and nervous, even
+          to turbulence, at times, yet nothing of that sort have I ever suffered
+          to invade my peace.  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+    </section>
+    <section id="s3">
+      <title>Bartleby the Scrivener</title>
+      <para id="s3-p1">
+        I am a rather elderly man.  The nature of my avocations for the last
+        thirty years has brought me into more than ordinary contact with what
+        would seem an interesting and somewhat singular set of men, of whom as
+        yet nothing that I know of has ever been written:--I mean the
+        law-copyists or scriveners.  I have known very many of them,
+        professionally and privately, and if I pleased, could relate divers
+        histories, at which good-natured gentlemen might smile, and sentimental
+        souls might weep.  But I waive the biographies of all other scriveners
+        for a few passages in the life of Bartleby, who was a scrivener of the
+        strangest I ever saw or heard of.  While of other law-copyists I might
+        write the complete life, of Bartleby nothing of that sort can be done.
+        I believe that no materials exist for a full and satisfactory biography
+        of this man.  It is an irreparable loss to literature.  Bartleby was one
+        of those beings of whom nothing is ascertainable, except from the
+        original sources, and in his case those are very small.  What my own
+        astonished eyes saw of Bartleby, _that_ is all I know of him, except,
+        indeed, one vague report which will appear in the sequel.
+      </para>
+      <para id="s3-p2">
+        Ere introducing the scrivener, as he first appeared to me, it is fit I
+        make some mention of myself, my _employees_, my business, my chambers,
+        and general surroundings; because some such description is indispensable
+        to an adequate understanding of the chief character about to be
+        presented.
+      </para>
+      <para id="s3-p3">
+        Imprimis:  I am a man who, from his youth upwards, has been filled with
+        a profound conviction that the easiest way of life is the best.  Hence,
+        though I belong to a profession proverbially energetic and nervous, even
+        to turbulence, at times, yet nothing of that sort have I ever suffered
+        to invade my peace.  I am one of those unambitious lawyers who never
+        addresses a jury, or in any way draws down public applause; but in the
+        cool tranquility of a snug retreat, do a snug business among rich men's
+        bonds and mortgages and title-deeds.  All who know me, consider me an
+        eminently _safe_ man.  The late John Jacob Astor, a personage little
+        given to poetic enthusiasm, had no hesitation in pronouncing my first
+        grand point to be prudence; my next, method.  I do not speak it in
+        vanity, but simply record the fact, that I was not unemployed in my
+        profession by the late John Jacob Astor; a name which, I admit, I love
+        to repeat, for it hath a rounded and orbicular sound to it, and rings
+        like unto bullion.  I will freely add, that I was not insensible to the
+        late John Jacob Astor's good opinion.
+      </para>
+    </section>
+  </content>
+  <bib:file>
+    <bib:entry id="meffe">
+      <bib:book>
+        <bib:author>Meffe, G.K., L.A. Nielsen, R.L. Knight, and
+        D.A. Schenborn</bib:author> <bib:title>Ecosystem management:
+        adaptive, community-based conservation</bib:title>
+        <bib:publisher>Island Press</bib:publisher>
+        <bib:year>2002</bib:year> <bib:address>Washington, D.C.,
+        U.S.A</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="whitaker">
+      <bib:article>
+        <bib:author>Whittaker, R.H.</bib:author> <bib:title>Evolution
+        and measurement of species diversity</bib:title>
+        <bib:journal>Taxon</bib:journal> <bib:year>1972</bib:year>
+        <bib:volume>21</bib:volume> <bib:pages>213-251</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="roberts">
+      <bib:article>
+        <bib:author>Roberts, T.R.</bib:author>
+        <bib:title>
+          Geographical distribution of African freshwater fishes
+        </bib:title>
+        <bib:journal>
+          Zoological Journal of the Linnean Society
+        </bib:journal>
+        <bib:year>1975</bib:year> <bib:volume>57</bib:volume>
+        <bib:pages>249-319</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+</document>

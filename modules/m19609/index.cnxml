@@ -1,0 +1,86 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Test 1</title>
+<metadata>
+  <md:content-id>m19609</md:content-id><md:title>Test 1</md:title>
+  <md:abstract>this is a test of the connexions system</md:abstract>
+  <md:uuid>5b2ac89b-e4b0-464d-b1a6-aa2c3a2f3bec</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><!-- Insert module text here -->
+  FIRST EUBANK CONFERENCE: MODELING REAL WORLD MARKETS
+March 23-24, 2009
+
+The Rice University
+George R. Brown School of Engineering
+Department of Statistics
+</para><equation id="eip-514"><m:math style="background-color:#">
+ <m:semantics>
+  <m:mrow>
+   <m:mi>r</m:mi><m:mo>−</m:mo><m:msub>
+    <m:mi>z</m:mi>
+    <m:mrow>
+     <m:mi>α</m:mi><m:mo>/</m:mo><m:mn>2</m:mn>
+
+    </m:mrow>
+   </m:msub>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>1</m:mn><m:mo>−</m:mo><m:msup>
+        <m:mi>r</m:mi>
+
+        <m:mn>2</m:mn>
+       </m:msup>
+       
+      </m:mrow>
+      <m:mrow>
+       <m:msqrt>
+        <m:mi>n</m:mi>
+       </m:msqrt>
+       
+      </m:mrow>
+
+     </m:mfrac>
+     
+    </m:mrow>
+   <m:mo>)</m:mo></m:mrow><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mo>≤</m:mo><m:mi>ρ</m:mi><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mo>≤</m:mo><m:mi>r</m:mi><m:mo>+</m:mo><m:msub>
+    <m:mi>z</m:mi>
+    <m:mrow>
+     <m:mi>α</m:mi><m:mo>/</m:mo><m:mn>2</m:mn>
+
+    </m:mrow>
+   </m:msub>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>1</m:mn><m:mo>−</m:mo><m:msup>
+        <m:mi>r</m:mi>
+
+        <m:mn>2</m:mn>
+       </m:msup>
+       
+      </m:mrow>
+      <m:mrow>
+       <m:msqrt>
+        <m:mi>n</m:mi>
+       </m:msqrt>
+       
+      </m:mrow>
+
+     </m:mfrac>
+     
+    </m:mrow>
+   <m:mo>)</m:mo></m:mrow>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ MathType@MTEF@5@5@+=feaagaart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamOCaiabgkHiTKaaGkaadQhakmaaBaaaleaacqaHXoqycaGGVaGaaGOmaaqabaGcdaqadaqaamaalaaabaGaaGymaiabgkHiTiaadkhadaahaaWcbeqaaiaaikdaaaaakeaadaGcaaqaaiaad6gaaSqabaaaaaGccaGLOaGaayzkaaGaaGPaVlaaykW7caaMc8UaaGPaVlabgsMiJkabeg8aYjaaykW7caaMc8UaaGPaVlabgsMiJkaadkhacqGHRaWkjaaOcaWG6bGcdaWgaaWcbaGaeqySdeMaai4laiaaikdaaeqaaOWaaeWaaeaadaWcaaqaaiaaigdacqGHsislcaWGYbWaaWbaaSqabeaacaaIYaaaaaGcbaWaaOaaaeaacaWGUbaaleqaaaaaaOGaayjkaiaawMcaaaaa@6013@</m:annotation>
+ </m:semantics>
+</m:math>
+</equation>
+</content>
+
+</document>
